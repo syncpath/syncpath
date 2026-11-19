@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Salavat</h1>
+<h1 align="center">👋 Hello there!</h1>
 
 <h3 align="center">🛠️ Tech stack</h3>
 <p align="center">
