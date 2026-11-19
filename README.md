@@ -23,9 +23,3 @@
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />&nbsp;
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" />
 </p>
-
-<h3 align="center">📊 GitHub stats</h3>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=syncpath&show_icons=true&theme=dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syncpath&layout=compact&theme=dark" />
-</p>
